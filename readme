@@ -1,0 +1,12 @@
+ROADMAP OF THE PROJECT
+
+-   authentication of the user whether he/she is a teacher, leader or a student
+    with his/her unique details
+-   keeping user details for future use
+-   adding and changing his/her details
+-   log out
+
+----------------------- additional on ADMIN USERS ---------------------------
+
+-   adding/deleting and changing a members details
+-   creating an account for another admin user
