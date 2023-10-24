@@ -1,5 +1,6 @@
 #pragma once
 #include <iostream>
+#include "menus_functions.h"
 
 namespace Mine {
     class Authenticate {

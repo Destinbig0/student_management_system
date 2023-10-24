@@ -40,7 +40,7 @@ namespace Mine {
 
     int ManageMenus::select_ ( int menu_number )
     {
-        if ( menu_number >= count_menus_() && menu_number <= 0 )
+        if ( menu_number > count_menus_() && menu_number <= 0 )
             return false;
         else
         {
